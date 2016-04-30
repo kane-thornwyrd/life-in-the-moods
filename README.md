@@ -1,4 +1,4 @@
-# ![Life in the Moods](https://cdn.rawgit.com/kane-thornwyrd/life-in-the-moods/master/logo.png)
+# ![Life in the Moods](http://media-elerium.cursecdn.com/avatars/39/10/635975933621077507.png)
 
 A Vanilla++++ like modpack centered on adventure, exploration and decoration with just enough tech (Ancient Warfare 2, Immersive engineering and Progressive Automation) to loose the need to struggle to survive.
 
