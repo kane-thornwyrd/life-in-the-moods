@@ -16,7 +16,7 @@
     "AdditionalFilesJson": null
   },
   "isUnlocked": true,
-  "javaArgsOverride": "-Xmx20480M -Xmn2048M -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy",
+  "javaArgsOverride": "-XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy",
   "javaDirOverride": null,
   "lastPlayed": "2016-04-30T08:03:56.9307075Z",
   "manifest": null,
